@@ -28,8 +28,10 @@ A list of files in this repository with short description.
 
 ### Training
 
-**Notebook to fine tune Llama with DPOTrainer**
+**Notebook to fine tune Llama with DPOTrainer**:
+
 [FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-DPO.ipynb)
 
-**Notebook to fine tune Llama with SFTTrainer**
+**Notebook to fine tune Llama with SFTTrainer**:
+
 [FineTune-LLM-using-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-SFT.ipynb)
