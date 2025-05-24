@@ -20,10 +20,14 @@ A list of files in this repository with short description.
 
 ### Dataset Creation
 
-**A notebook to create datasets suitable for DPOTrainer**
+**A notebook to create datasets suitable for DPOTrainer**:
+
 [Dataset-Creation-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-DPO.ipynb)
 
-**A notebook to create datasets suitable for SFTTrainer**
+---
+
+**A notebook to create datasets suitable for SFTTrainer**:
+
 [Dataset-Creation-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-SFT.ipynb)
 
 ### Training
@@ -31,6 +35,8 @@ A list of files in this repository with short description.
 **Notebook to fine tune Llama with DPOTrainer**:
 
 [FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-DPO.ipynb)
+
+---
 
 **Notebook to fine tune Llama with SFTTrainer**:
 
