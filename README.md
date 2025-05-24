@@ -14,3 +14,22 @@ This repository covers core techniques such as:
 All examples are built for clarity, reproducibility, and quick iteration—even on limited hardware. Perfect for learners, researchers, and developers exploring LLM tuning techniques.
 
 > ⚠️ These notebooks are optimized for demonstration and may use small datasets and short training times.
+
+## Files
+A list of files in this repository with short description.
+
+### Dataset Creation
+
+**A notebook to create datasets suitable for DPOTrainer**
+[Dataset-Creation-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-DPO.ipynb)
+
+**A notebook to create datasets suitable for SFTTrainer**
+[Dataset-Creation-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-SFT.ipynb)
+
+### Training
+
+**Notebook to fine tune Llama with DPOTrainer**
+[FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-DPO.ipynb)
+
+**Notebook to fine tune Llama with SFTTrainer**
+[FineTune-LLM-using-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-SFT.ipynb)
