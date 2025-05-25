@@ -15,10 +15,8 @@ All examples are built for clarity, reproducibility, and quick iteration—even 
 
 > ⚠️ These notebooks are optimized for demonstration and may use small datasets and short training times.
 
-## Files
-A list of files in this repository with short description.
 
-### Dataset Creation
+## Dataset Creation
 
 **A notebook to create datasets suitable for DPOTrainer**:
 
@@ -30,7 +28,7 @@ A list of files in this repository with short description.
 
 [Dataset-Creation-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-SFT.ipynb)
 
-### Training
+## Training
 
 **Notebook to fine tune Llama with DPOTrainer**:
 
