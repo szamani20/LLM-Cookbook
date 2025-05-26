@@ -28,17 +28,17 @@ Assess performance with metrics like `Accuracy`, `BLEU`, `ROUGE`, `BERTScore`, a
 
 # Dataset Creation
 
-## [Dataset-Creation-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-DPO.ipynb)
+## [Dataset-Creation-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Direct-Preference-Optimization-DPO/Dataset-Creation-DPO.ipynb)
 
-## [Dataset-Creation-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Dataset-Creation-SFT.ipynb)
+## [Dataset-Creation-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Supervised-Fine-Tuning-SFT/Dataset-Creation-SFT.ipynb)
 
 ---
 
 # Training
 
-## [FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-DPO.ipynb)
+## [FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Direct-Preference-Optimization-DPO/FineTune-LLM-using-DPO.ipynb)
 
-## [FineTune-LLM-using-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-SFT.ipynb)
+## [FineTune-LLM-using-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/Supervised-Fine-Tuning-SFT/FineTune-LLM-using-SFT.ipynb)
 
 > ⚠️ These notebooks are optimized for demonstration and may use small datasets and short training times.
 
