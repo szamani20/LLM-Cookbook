@@ -1,10 +1,6 @@
 # LLM-Cookbook
 
-A collection of practical guides and runnable examples for training and fine-tuning large language models (LLMs).
-
-All examples are built for clarity, reproducibility, and quick iteration—even on limited hardware. Perfect for learners, researchers, and developers exploring LLM tuning techniques.
-
-> ⚠️ These notebooks are optimized for demonstration and may use small datasets and short training times.
+**A collection of ready-to-run notebooks and practical guides for training and fine-tuning large language models (LLMs) in 2025.**
 
 ---
 
@@ -43,3 +39,6 @@ Assess performance with metrics like `Accuracy`, `BLEU`, `ROUGE`, `BERTScore`, a
 ## [FineTune-LLM-using-DPO.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-DPO.ipynb)
 
 ## [FineTune-LLM-using-SFT.ipynb](https://github.com/szamani20/LLM-Cookbook/blob/main/FineTune-LLM-using-SFT.ipynb)
+
+> ⚠️ These notebooks are optimized for demonstration and may use small datasets and short training times.
+
